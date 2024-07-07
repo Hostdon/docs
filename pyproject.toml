@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "hostdon-docs"
+version = "0.1.0"
+description = ""
+authors = ["Takato Ueno <naf@auriga.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs = "^1.6.0"
+mkdocs-material = "^9.5.28"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,27 @@
+site_name: Hostdon Documentetion
+theme:
+  name: material
+  palette:
+    primary: light bule
+  font:
+    text: BIZ UDPGothic
+    code: Inconsolata
+markdown_extensions:
+  - admonition
+
+
+
+nav:
+  - トップ: index.md
+  - よくある質問:
+    - お支払いについて:
+      - faq/billing/how-to-pay.md
+      - faq/billing/service-cancel.md
+    - サービスについて:
+      - faq/service/how-to-migrate.md
+      - faq/service/local-remote-media.md
+      - faq/service/local-media-over.md
+      - faq/service/local-media-calculation.md
+      - faq/service/domain-change.md
+
+copyright: "&copy; 2024 Hostdon / Auriga"
