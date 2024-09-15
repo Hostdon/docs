@@ -23,5 +23,9 @@ nav:
       - faq/service/local-media-over.md
       - faq/service/local-media-calculation.md
       - faq/service/domain-change.md
+  - マニュアル:
+    - Mastodon:
+      - manual/mastodon/about-role.md
+
 
 copyright: "&copy; 2024 Hostdon / Auriga"
